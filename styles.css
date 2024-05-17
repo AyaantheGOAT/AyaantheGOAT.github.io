@@ -2,7 +2,7 @@
 
 /* Global Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'ProFontWindows', Arial, sans-serif; /* Use ProFontWindows font as fallback */
     margin: 0;
     padding: 0;
 }
